@@ -2,8 +2,8 @@
 
 |Effect|Steam Format|Output|
 |:----:|:---------:|:----:|
-|Heading|`[h1] Header text [/h1]|### Header text|
-|**Bold**|`[b] Bold text [/b]`|**Bold text**|
+| ### Heading | `[h1] Header text [/h1]` | ### Header text |
+| **Bold** | `[b] Bold text [/b]` | **Bold text** |
 
 ## References
 
