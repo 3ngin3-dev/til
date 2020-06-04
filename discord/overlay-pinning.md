@@ -6,15 +6,15 @@ Activate the Discord overlay with `Shift + ~`.
 
 Then click on the pin.
 
-![Pin](../click-pin.png)
+![Pin](../images/click-pin.png)
 
 At this point, the opacity control becomes available.
 
-![Opacity](../opacity-control.png)
+![Opacity](../images/opacity-control.png)
 
 Use the slider to control the degree of transparency.
 
-![Slider](../opacity-slider.png)
+![Slider](../images/opacity-slider.png)
 
 Now you may continue to chat while playing by using the `[` key. However, the overlay no longer takes over the focus.
 
