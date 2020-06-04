@@ -6,9 +6,14 @@
 
 ### Categories
 
+- [Discord](#discord)
 - [Steam](#steam)
 
 ---
+
+### Discord
+
+- [Games Overlay Pinning](discord/overlay-pinning.md)
 
 ### Steam
 
