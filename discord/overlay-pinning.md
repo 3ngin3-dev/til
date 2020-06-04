@@ -8,7 +8,7 @@ Then click on the pin.
 
 ![Pin](../images/click-pin.png)
 
-At this point, the opacity control becomes available.
+At this point, the opacity control becomes available. Click on it.
 
 ![Opacity](../images/opacity-control.png)
 
